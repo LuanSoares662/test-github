@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000000;
+    color: #f0f8ff;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #f0f8ff;
+    font-size: 2rem;
+}
+
+h1 {
+    font-size: 3rem;
+}
